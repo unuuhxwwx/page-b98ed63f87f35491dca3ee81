@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "52453f8d3e083232e8f9dff1",
+  "owner": "unuuhxwwx",
+  "repo": "page-b98ed63f87f35491dca3ee81",
+  "title": "百变小樱",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b98ed63f87f35491dca3ee81",
+      "a": "百变小樱",
+      "b": "",
+      "entity": "百变小樱",
+      "brand": "百变小樱",
+      "separator": "",
+      "path": "index.html",
+      "hash": "83a5df2279cf92eb3460c03fcbab58c9d14fdb3eb76fa61fa46845d344beb890",
+      "content": {
+        "keyword1": "百变小樱",
+        "keyword2": "",
+        "primary_entity": "百变小樱",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "百变小樱提供稳定的机场订阅与多端 VPN 加速服务，支持官方客户端下载、流媒体解锁与游戏线路优化，帮助你安全访问全球网络。",
+          "AI_DESCRIPTION": "百变小樱提供稳定的机场订阅与多端 VPN 加速服务，支持官方客户端下载、流媒体解锁与游戏线路优化，帮助你安全访问全球网络。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}body{margin:0;background:#F7F3EB;color:#1A2F24;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"PingFang SC\",\"Hiragino Sans GB\",\"Noto Sans SC\",\"Microsoft YaHei\",sans-serif;font-size:16px;line-height:1.75;overflow-x:hidden}a{color:#1F5A3A;text-decoration:underline}a:hover{color:#0F3A26}img{max-width:100%}header,main,footer{width:100%}.wrap{max-width:1080px;margin:0 auto;padding:20px 16px}header{background:#1F5A3A;color:#F7F3EB}header .wrap{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:12px}header .brand{font-weight:700;font-size:1.25rem;color:#F7F3EB;text-decoration:none}nav{display:flex;flex-wrap:wrap;gap:10px 14px}nav a{color:#F7F3EB;text-decoration:none;font-size:0.95rem}h1{font-size:1.85rem;line-height:1.35;margin:0 0 12px;color:#143528}h2{font-size:1.4rem;margin:0 0 12px;color:#143528}h3{font-size:1.12rem;margin:0 0 8px;color:#1F5A3A}p{margin:0 0 12px}.lead{font-size:1.05rem}.hero{padding:28px 0 8px}.panel{background:#fff;border:1px solid #C9D7CE;border-radius:12px;padding:20px;margin:16px 0}.stagger{display:flex;flex-wrap:wrap;gap:20px;align-items:stretch;margin:16px 0}.stagger.reverse{flex-direction:row-reverse}.col{flex:1 1 280px;min-width:0}.muted{color:#3D5448}.plans{display:flex;flex-wrap:wrap;gap:16px}.plan{flex:1 1 250px;background:#fff;border:1px solid #C9D7CE;border-radius:12px;padding:18px;min-width:0}.plan.featured{background:#1F5A3A;color:#F7F3EB;border-color:#1F5A3A}.plan.featured h3,.plan.featured .price,.plan.featured a{color:#F7F3EB}.price{font-size:1.35rem;font-weight:700;margin:8px 0}.annual{font-size:0.92rem;margin-bottom:10px}.plan ul{margin:0;padding-left:1.1em}.clients{display:flex;flex-wrap:wrap;gap:12px}.client{flex:1 1 140px;background:#EAF3EC;border:1px solid #1F5A3A;border-radius:10px;padding:14px;text-align:center;min-width:0}.client a{text-decoration:none;font-weight:700;display:block}.steps{counter-reset:step}.step{background:#fff;border-left:4px solid #1F5A3A;padding:12px 14px;margin:10px 0}.step h3:before{counter-increment:step;content:counter(step) \". \"}details{background:#fff;border:1px solid #C9D7CE;border-radius:10px;padding:10px 14px;margin:10px 0}summary{font-weight:700;color:#143528}details p{margin:10px 0 4px}.ads{display:flex;flex-wrap:wrap;gap:12px}.ad{flex:1 1 220px;background:#E8EFE8;border:1px dashed #1F5A3A;border-radius:10px;padding:14px;min-width:0}.friends{display:flex;flex-wrap:wrap;gap:10px 16px}.sitemap ul{margin:0;padding-left:1.2em}footer{background:#143528;color:#EAF3EC;margin-top:24px}footer a{color:#D7E8DC}footer .fine{font-size:0.85rem;color:#C5D6CB}@media (max-width:720px){h1{font-size:1.5rem}.stagger,.stagger.reverse{flex-direction:column}.wrap{padding:16px 14px}nav{width:100%}}</style><header><div class=\"wrap\"><a class=\"brand\" href=\"#top\">百变小樱</a><nav><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐</a><a href=\"#scenes\">使用场景</a><a href=\"#clients\">客户端下载</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">常见问题</a><a href=\"#sitemap\">网站地图</a></nav></div></header><main id=\"top\"><div class=\"wrap\"><section class=\"hero\" id=\"intro\"><h1>百变小樱官方网站：机场订阅与加速器客户端</h1><p class=\"lead\">百变小樱是面向跨境协作、学习资料与流媒体访问的网络加速服务。我们以机场订阅为核心，配合多平台客户端，把节点选择、流量管理和线路切换收拢到同一套官方流程里，减少来回找配置的时间。</p></section><section class=\"stagger\"><div class=\"col panel\"><h2>为什么选择百变小樱机场</h2><p>百变小樱把订阅地址、客户端入口和套餐说明放在同一页面，避免分散下载。节点覆盖办公常用区域与娱乐线路，基础套餐满足日常网页与会议，旗舰与团队套餐补足原生流媒体、IPLC 游戏优化和企业路由。</p><p class=\"muted\">本站为百变小樱官网信息页，下载与订阅说明均以当前页面分区为准。不提供任何破解、盗号或未授权访问指导。</p></div><div class=\"col panel\"><h2>服务边界一览</h2><h3>可预期的能力</h3><p>多端同时在线、按月流量配额、流媒体解锁分级、工单与客户经理分层支持。订阅导入后即可在 Clash、Shadowrocket 等常见客户端中更新节点。</p><h3>使用约定</h3><p>请遵守所在地与目标站点的服务条款。账号仅限套餐载明的设备数。异常共享、扫描或攻击行为会被限制访问。</p></div></section><section id=\"plans\"><h2>套餐与订阅价格</h2><p>按月开通，也可按年结算。流量按自然月重置，不结转。旗舰版适合把工作和娱乐放在同一套订阅里的个人用户。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><h3>旗舰版（推荐）</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><p><a href=\"#clients\">前往客户端选择</a></p></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section id=\"scenes\" class=\"stagger reverse\"><div class=\"col panel\"><h2>使用场景</h2><h3>跨境会议与文档协作</h3><p>在出差酒店或公共网络下，用旗舰版稳定线路打开会议软件与云盘。三到五台设备可同时保持连接，减少反复登录。</p><h3>课程、论文与开源仓库</h3><p>基础版即可覆盖检索、代码拉取和文献阅读。若需要长时间高清课件，建议升级到更高流量档。</p></div><div class=\"col panel\"><h3>流媒体与直播</h3><p>旗舰版强调全节点原生解锁，减少只放行网页却卡住播放器的情况。团队版适合工作室多账号、多终端同时预览。</p><h3>游戏与实时对战</h3><p>IPLC 专线面向延迟敏感场景。请把游戏进程放在规则分流里，避免全局模式占用额外流量。</p></div></section><section id=\"clients\"><h2>客户端选择与官方下载</h2><p>百变小樱不绑定单一壳程序。订阅兼容主流协议客户端。请先确认系统版本，再复制订阅链接导入。以下入口为本页官方下载分区，外链仅作占位指引。</p><div class=\"clients\"><div class=\"client\"><a href=\"#guide\">Windows</a><p>推荐 Clash Verge 或类似图形客户端，导入订阅后开启系统代理。</p></div><div class=\"client\"><a href=\"#guide\">macOS</a><p>可用 ClashX Meta 或 Surge。注意授权网络扩展后再连接。</p></div><div class=\"client\"><a href=\"#guide\">Android</a><p>Clash Meta for Android 适合规则分流。从官方渠道安装，避免来路不明安装包。</p></div><div class=\"client\"><a href=\"#guide\">iOS</a><p>Shadowrocket、Stash 等需自行购买应用。导入后开启 VPN 配置描述文件。</p></div><div class=\"client\"><a href=\"#guide\">Linux / 路由器</a><p>支持订阅转出到 clash 配置。团队版可配合定制路由做网关分流。</p></div></div><div class=\"panel\"><h3>下载前核对</h3><p>客户端来自各开源项目或应用商店，百变小樱只提供订阅与节点。安装完成后不要填写来路不明的更新源。若页面提示证书告警，停止导入并回到本站重新复制订阅。</p></div></section><section id=\"guide\"><h2>操作说明</h2><div class=\"steps\"><div class=\"step\"><h3>获取订阅</h3><p>在套餐页完成开通后，进入用户中心复制通用订阅链接。不要把链接发到公开群组。团队版可由客户经理批量下发。</p></div><div class=\"step\"><h3>安装客户端</h3><p>按上一节选择对应系统。Windows 与 Android 建议先关闭自动安装未知来源应用。iOS 需在系统设置中允许 VPN。</p></div><div class=\"step\"><h3>导入并更新节点</h3><p>打开客户端的订阅栏，粘贴链接，执行更新。看到节点列表后，优先选择标注流媒体或 IPLC 的分组，而不是随机第一个节点。</p></div><div class=\"step\"><h3>规则与分流</h3><p>日常浏览可用规则模式，仅对境外域名走代理。游戏与会议可临时切到指定节点。用完关闭隧道，避免后台消耗流量。</p></div><div class=\"step\"><h3>排障顺序</h3><p>先更新订阅，再更换节点，最后检查系统时间与本地防火墙。仍失败时，旗舰版走优先工单，团队版联系客户经理并提供客户端日志时间戳。</p></div></div></section><section id=\"faq\"><h2>常见问题</h2><details><summary>百变小樱是机场还是单一 VPN 客户端？</summary><p>百变小樱以机场订阅为主：你购买的是节点与流量配额，再用自己选择的客户端连接。这样可以在电脑、手机和路由器之间复用同一条订阅，而不必锁定某个壳程序。</p></details><details><summary>如何完成官网下载并导入订阅？</summary><p>打开本页「客户端选择与官方下载」，按系统挑选客户端并安装。回到用户中心复制订阅链接，在客户端中新增订阅并更新。连接成功后浏览器应能访问你需要的站点；若失败，按操作说明中的排障顺序处理。</p></details><details><summary>基础版、旗舰版和团队版该怎么选？</summary><p>轻度网页与三台设备选基础版。需要原生流媒体、游戏专线和五台设备同时在线选旗舰版。工作室、实验室或需要定制路由、专属经理的情况选团队版。流量用尽会降速或需要等待下月重置，请按实际用量升级。</p></details><details><summary>设备数超限会怎样？</summary><p>超过套餐允许的同时在线数量时，新设备可能无法握手或旧会话被踢下线。请先在客户端退出登录，减少后台常驻连接。团队版适合办公室多终端，不必把个人套餐强行分享给整组同事。</p></details><details><summary>流媒体提示不在支持区怎么办？</summary><p>先切换到标注解锁的节点并清空播放器缓存，避免浏览器插件改写地区。基础版仅覆盖基础片库，完整片源请使用旗舰或团队节点。若版权方临时调整策略，以工单最新公告为准。</p></details><details><summary>可以用于违法内容访问或攻击测试吗？</summary><p>不可以。百变小樱仅提供正当的网络加速与跨境访问便利。扫描、入侵、传播恶意软件或绕过他人账户验证均被禁止，违规账号会被停止服务。</p></details></section><section id=\"ads\"><h2>合作展示</h2><p class=\"muted\">以下为页面预留的静态合作位，不含跟踪脚本与弹窗。</p><div class=\"ads\"><div class=\"ad\"><h3>办公协同专栏</h3><p>跨境会议清单、耳麦与弱网设置说明，稍后将在本站知识区分期更新。</p></div><div class=\"ad\"><h3>客户端对照表</h3><p>各系统权限项、规则模式与 TUN 模式差异对照，便于团队统一配置。</p></div></div></section><section id=\"friends\"><h2>友情链接</h2><div class=\"friends\"><a href=\"#intro\">百变小樱简介</a><a href=\"#clients\">官方下载</a><a href=\"#plans\">套餐说明</a><a href=\"#faq\">帮助中心</a><a href=\"#sitemap\">网站地图</a></div></section><section id=\"sitemap\" class=\"panel\"><h2>网站地图</h2><ul><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#plans\">套餐与订阅价格</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#clients\">客户端选择与官方下载</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#faq\">常见问题</a></li><li><a href=\"#ads\">合作展示</a></li><li><a href=\"#friends\">友情链接</a></li></ul><p class=\"muted\">sitemap 索引：https://www.baibianxiaoying.com/sitemap.xml</p></section></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>百变小樱官网 · 机场订阅与 VPN 加速器客户端下载</p><p class=\"fine\">页面为静态说明，不收集表单信息。使用网络加速服务时请遵守适用法律法规与上游站点条款。</p><p class=\"fine\"><a href=\"#top\">返回顶部</a> · <a href=\"#sitemap\">网站地图</a></p></div></footer>",
+          "hash": "cbcd4752da63a618f56e6ed609437bb541169fa2ef5c55bb02b6ae02fcf135ef",
+          "seo": {
+            "title": "百变小樱官网 | 机场订阅、VPN加速器与客户端下载",
+            "keywords": "百变小樱,百变小樱机场,百变小樱VPN,百变小樱官网,机场订阅,梯子,网络加速,加速器,客户端下载,官方下载",
+            "description": "百变小樱提供稳定的机场订阅与多端 VPN 加速服务，支持官方客户端下载、流媒体解锁与游戏线路优化，帮助你安全访问全球网络。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "qishirc.cn",
+    "host": "p-78e6a068f3.qishirc.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "jhphk.cn",
+      "url": "https://jhphk.cn/",
+      "label": "百变小樱",
+      "apex": "jhphk.cn",
+      "kind": null,
+      "identity": "ber4gyatf/page-377d16caf4685b559799bed3"
+    },
+    {
+      "host": "jymrx.cn",
+      "url": "https://jymrx.cn/",
+      "label": "百变小樱",
+      "apex": "jymrx.cn",
+      "kind": null,
+      "identity": "pusrrxun/page-0c4df7a253d00faa5df9a7bb"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "3fc0fdeb42fe307f494aeff8e5fa2fe48e3fd072260568cb96e1d32a3adb8a28",
+    "sitemap.xml": "62fd22e1d8967ac28c518f75ee48b84daa7beb138b0a0ef04dfe3ebc0ca79dd2",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0eb7ed1e0c14ee20736cf452df1ae737a052f927a4d9832625ffbc1d7e5152e4",
+    "robots.txt": "827a0c709fbf406f65b07406204b48fbb62f45dabbb7e66bd8f1dcc5aa53b1b6",
+    "240f9e3a26910cf0ce9ef6713aee256a.txt": "9ec71a872c1bd3bde79188db56e731b211f3de9e833d2ad2676aa28f10bd6056"
+  },
+  "revision": "b2f234ce12142d96535696671c6a602b2fdd03cc40be73e44325626cd284e002"
+}
